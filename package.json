@@ -45,6 +45,7 @@
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.1.17",
     "@types/node": "^22",
+    "@types/three": "^0.181.0",
     "@vitest/browser-playwright": "^4.0.10",
     "@vitest/coverage-v8": "^4.0.10",
     "drizzle-kit": "^0.31.7",
@@ -71,6 +72,12 @@
     "vitest-browser-svelte": "^2.0.1"
   },
   "dependencies": {
-    "@node-rs/argon2": "^2.0.2"
+    "@dimforge/rapier3d-compat": "^0.19.3",
+    "@node-rs/argon2": "^2.0.2",
+    "@threlte/core": "^8.3.1",
+    "@threlte/extras": "^9.7.1",
+    "@threlte/rapier": "^3.2.0",
+    "@threlte/studio": "^0.2.1",
+    "three": "^0.181.2"
   }
 }
