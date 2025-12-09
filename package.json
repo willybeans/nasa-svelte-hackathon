@@ -72,12 +72,20 @@
     "vitest-browser-svelte": "^2.0.1"
   },
   "dependencies": {
+    "@careswitch/svelte-data-table": "^0.6.3",
     "@dimforge/rapier3d-compat": "^0.19.3",
     "@node-rs/argon2": "^2.0.2",
     "@threlte/core": "^8.3.1",
     "@threlte/extras": "^9.7.1",
     "@threlte/rapier": "^3.2.0",
     "@threlte/studio": "^0.2.1",
-    "three": "^0.181.2"
+    "@types/papaparse": "^5.5.1",
+    "fast-sort": "^3.4.1",
+    "fast-xml-parser": "^5.3.2",
+    "fuse.js": "^7.1.0",
+    "papaparse": "^5.5.3",
+    "svelte-table": "^0.6.5",
+    "three": "^0.181.2",
+    "xlsx": "^0.18.5"
   }
 }
